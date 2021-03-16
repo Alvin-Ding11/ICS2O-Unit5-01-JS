@@ -1,5 +1,4 @@
-document.write('Hello, World');
-alert('I come from Javascript')
+document.write('Hello, World')
 
 var img = document.createElement("img");
 
